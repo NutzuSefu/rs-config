@@ -9,14 +9,14 @@
   "graphicsModInstallRules": [
     {
       "source": "plugins",
-      "destination": "FiveM.app\\plugins",
+      "destination": "plugins",
       "target": "FiveM",
       "filePattern": "",
       "enabled": true
     },
     {
       "source": "mods",
-      "destination": "FiveM.app\\mods",
+      "destination": "mods",
       "target": "FiveM",
       "filePattern": "",
       "enabled": true
