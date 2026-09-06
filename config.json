@@ -3,20 +3,20 @@
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.0",
   "graphicsModUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.0.0/rsgraphics-v1.0.0.zip",
-  "graphicsModHash": "57B34DD9A86CF4671FBA6FB861BA7D1124CF1D2FB8B5D7264A19AB0C14CBDC24",
+  "graphicsModHash": "57b34dd9a86cf4671fba6fb861ba7d1124cf1d2fb8b5d7264a19ab0c14cbdc24",
   "graphicsModChangelog": "",
   "graphicsModEnabled": true,
   "graphicsModInstallRules": [
     {
       "source": "plugins",
-      "destination": "",
+      "destination": "FiveM.app\\plugins",
       "target": "FiveM",
       "filePattern": "",
       "enabled": true
     },
     {
       "source": "mods",
-      "destination": "",
+      "destination": "FiveM.app\\mods",
       "target": "FiveM",
       "filePattern": "",
       "enabled": true
@@ -24,5 +24,8 @@
   ],
   "maintenance": false,
   "maintenanceMessage": "RS OPTIMIZATION is currently under maintenance.",
-  "announcement": ""
+  "announcement": "",
+  "discordUrl": "",
+  "supportUrl": "",
+  "websiteUrl": ""
 }
