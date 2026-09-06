@@ -1,0 +1,28 @@
+{
+  "graphicsModName": "RS Graphics Mod",
+  "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
+  "graphicsModVersion": "1.0.0",
+  "graphicsModUrl": "https://limewire.com/d/QqHpS#7gsBKM5BtA",
+  "graphicsModHash": null,
+  "graphicsModChangelog": "",
+  "graphicsModEnabled": true,
+  "graphicsModInstallRules": [
+    {
+      "source": "plugins",
+      "destination": "",
+      "target": "FiveM",
+      "filePattern": "",
+      "enabled": true
+    },
+    {
+      "source": "mods",
+      "destination": "",
+      "target": "FiveM",
+      "filePattern": "",
+      "enabled": true
+    }
+  ],
+  "maintenance": false,
+  "maintenanceMessage": "RS OPTIMIZATION is currently under maintenance.",
+  "announcement": ""
+}
