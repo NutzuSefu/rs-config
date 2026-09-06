@@ -2,8 +2,8 @@
   "graphicsModName": "RS Graphics Mod",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.0",
-  "graphicsModUrl": "https://limewire.com/d/QqHpS#7gsBKM5BtA",
-  "graphicsModHash": null,
+  "graphicsModUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.0.0/rsgraphics-v1.0.0.zip",
+  "graphicsModHash": "57B34DD9A86CF4671FBA6FB861BA7D1124CF1D2FB8B5D7264A19AB0C14CBDC24",
   "graphicsModChangelog": "",
   "graphicsModEnabled": true,
   "graphicsModInstallRules": [
