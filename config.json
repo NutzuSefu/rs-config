@@ -27,5 +27,7 @@
   "announcement": "",
   "discordUrl": "",
   "supportUrl": "",
-  "websiteUrl": ""
+  "websiteUrl": "",
+  "userAuthApiUrl": "https://rs-optimization-license-api.radu8781.workers.dev",
+  "userAuthenticationRequired": true
 }
