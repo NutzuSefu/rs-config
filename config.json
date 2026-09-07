@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.3.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.3.0/RS-Optimization-v1.3.0-win-x64.zip",
-  "updateSha256": "bba5537e07889cf96095d3ce90ec12fd217aba0c9a2d1664574218f5da31aae6",
-  "changelog": "Optimiz\u0103ri Windows mai performante, profil FPS/FiveM, ajust\u0103ri personalizate, optimiz\u0103ri avansate pentru drivere, re\u021Bea \u0219i servicii, interfa\u021B\u0103 \u00EEmbun\u0103t\u0103\u021Bit\u0103 \u0219i corec\u021Bii de stabilitate.",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.3.0/RS-Optimization-v1.3.0-win-x64-PREMIUM-FIXED.zip",
+  "updateSha256": "b446bd467aab1951d557bbd6579bc36c062c79d65e55b94c3b1e87afc6ea0459",
+  "changelog": "Premium Optimization: scanare hardware și rețea, Optimization Score, profiluri FPS/Latency/Stability, benchmark real Before/After, detectare jocuri Steam/Epic/FiveM, optimizări reversibile și Restore complet. Corectată închiderea paginii Premium.",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
@@ -11,20 +11,8 @@
   "graphicsModChangelog": "",
   "graphicsModEnabled": true,
   "graphicsModInstallRules": [
-    {
-      "source": "plugins",
-      "destination": "plugins",
-      "target": "FiveM",
-      "filePattern": "",
-      "enabled": true
-    },
-    {
-      "source": "mods",
-      "destination": "mods",
-      "target": "FiveM",
-      "filePattern": "",
-      "enabled": true
-    }
+    { "source": "plugins", "destination": "plugins", "target": "FiveM", "filePattern": "", "enabled": true },
+    { "source": "mods", "destination": "mods", "target": "FiveM", "filePattern": "", "enabled": true }
   ],
   "maintenance": false,
   "maintenanceMessage": "RS OPTIMIZATION is currently under maintenance.",
