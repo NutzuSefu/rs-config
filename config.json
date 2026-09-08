@@ -2,7 +2,7 @@
   "latestVersion": "1.11.0",
   "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.11.0/RS-Optimization-v1.11.0.zip",
   "updateSha256": "653CE59F4ECDA30CAC268779A109344AD75F297F522FC213280B106A8D423A68",
-  "changelog": "RS Optimization v1.11.0: profiluri gaming cu Apply Selected Profile pentru Competitive, Balanced, Quality, FiveM, Fortnite, CS2 și Warzone; profilul aplicat este evidențiat cu accentul temei active; Smart Scan cu scor de performanță; benchmark CPU, memorie și rețea Before/After; teme RS Blue, Purple Pro și Stealth Black; interfață premium și controale restore pentru optimizări reversibile.",
+  "changelog": "RS Optimization v1.11.0: profiluri gaming cu Apply Selected Profile pentru Competitive, Balanced, Quality, FiveM, Fortnite, CS2 \u0219i Warzone; profilul aplicat este eviden\u021Biat cu accentul temei active; Smart Scan cu scor de performan\u021B\u0103; benchmark CPU, memorie \u0219i re\u021Bea Before/After; teme RS Blue, Purple Pro \u0219i Stealth Black; interfa\u021B\u0103 premium \u0219i controale restore pentru optimiz\u0103ri reversibile.",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
@@ -11,15 +11,27 @@
   "graphicsModChangelog": "",
   "graphicsModEnabled": true,
   "graphicsModInstallRules": [
-    { "source": "plugins", "destination": "plugins", "target": "FiveM", "filePattern": "", "enabled": true },
-    { "source": "mods", "destination": "mods", "target": "FiveM", "filePattern": "", "enabled": true }
+    {
+      "source": "plugins",
+      "destination": "plugins",
+      "target": "FiveM",
+      "filePattern": "",
+      "enabled": true
+    },
+    {
+      "source": "mods",
+      "destination": "mods",
+      "target": "FiveM",
+      "filePattern": "",
+      "enabled": true
+    }
   ],
   "maintenance": false,
   "maintenanceMessage": "RS OPTIMIZATION is currently under maintenance.",
   "announcement": "",
-  "discordUrl": "",
-  "supportUrl": "",
-  "websiteUrl": "",
+  "discordUrl": "https://discord.gg/rsoptimizations",
+  "supportUrl": "https://discord.gg/rsoptimizations",
+  "websiteUrl": "https://rsoptimizations.xyz",
   "userAuthApiUrl": "https://rs-optimization-license-api.radu8781.workers.dev",
   "userAuthenticationRequired": true
 }
