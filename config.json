@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.4.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.4.0/RS-Optimization-v1.4.0-win-x64.zip",
-  "updateSha256": "c93b6f8ba76d1fcf63168e542ce6608704cd91d304d89511aeb11c6f073ddc35",
-  "changelog": "Premium Optimization: scanare hardware și rețea, Optimization Score, profiluri FPS/Latency/Stability, benchmark real Before/After, detectare jocuri Steam/Epic/FiveM, optimizări reversibile și Restore complet. Corectată închiderea paginii Premium.",
+  "latestVersion": "1.11.0",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.11.0/RS-Optimization-v1.11.0.zip",
+  "updateSha256": "653CE59F4ECDA30CAC268779A109344AD75F297F522FC213280B106A8D423A68",
+  "changelog": "RS Optimization v1.11.0: profiluri gaming cu Apply Selected Profile pentru Competitive, Balanced, Quality, FiveM, Fortnite, CS2 și Warzone; profilul aplicat este evidențiat cu accentul temei active; Smart Scan cu scor de performanță; benchmark CPU, memorie și rețea Before/After; teme RS Blue, Purple Pro și Stealth Black; interfață premium și controale restore pentru optimizări reversibile.",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
