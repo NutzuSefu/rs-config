@@ -1,8 +1,8 @@
 {
   "latestVersion": "1.11.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.11.0/RS-Optimization-v1.11.0.zip",
-  "updateSha256": "653CE59F4ECDA30CAC268779A109344AD75F297F522FC213280B106A8D423A68",
-  "changelog": "RS Optimization v1.11.0: profiluri gaming cu Apply Selected Profile pentru Competitive, Balanced, Quality, FiveM, Fortnite, CS2 \u0219i Warzone; profilul aplicat este eviden\u021Biat cu accentul temei active; Smart Scan cu scor de performan\u021B\u0103; benchmark CPU, memorie \u0219i re\u021Bea Before/After; teme RS Blue, Purple Pro \u0219i Stealth Black; interfa\u021B\u0103 premium \u0219i controale restore pentru optimiz\u0103ri reversibile.",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.11.0/RS-Optimization-v1.11.0-font-icons-clean.zip",
+  "updateSha256": "DB20A06AE6D746F0435DFA4438D5660BDB6E90068AA894530A0272B5B9EC877D",
+  "changelog": "RS Optimization v1.11.0: build clean cu fontul Inter si iconitele RS; profiluri gaming, Smart Scan, benchmark Before/After, teme RS Blue, Purple Pro si Stealth Black.",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
@@ -34,4 +34,4 @@
   "websiteUrl": "https://rsoptimizations.xyz",
   "userAuthApiUrl": "https://rs-optimization-license-api.radu8781.workers.dev",
   "userAuthenticationRequired": true
-}
+}`n
