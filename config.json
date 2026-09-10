@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.11.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.11.0/RS-Optimization-v1.11.0-font-icons-clean.zip",
-  "updateSha256": "DB20A06AE6D746F0435DFA4438D5660BDB6E90068AA894530A0272B5B9EC877D",
-  "changelog": "RS Optimization v1.11.0: build clean cu fontul Inter si iconitele RS; profiluri gaming, Smart Scan, benchmark Before/After, teme RS Blue, Purple Pro si Stealth Black.",
+  "latestVersion": "1.13.0",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.13.0/RS-Optimization-v1.13.0-FULL.zip",
+  "updateSha256": "7AB63B62626714BCD297B43B8370E138CC103C54228049282ABB89E8C36EF160",
+  "changelog": "RS Optimization v1.13.0 — FiveM Hub\n• Competitive / Balanced / Quality graphics profiles with exact preview, verified backup, Apply and chained Restore.\n• Real PresentMon 60-second capture and CSV import: FPS, 1% lows, frametimes and Before/After charts.\n• CPU/GPU/RAM/disk pressure clues, approximate stutter correlation, storage checks and supported NVIDIA temperature snapshots.\n• Background-app close requests with confirmation; no forced termination or security-service changes.\n• Selected/Active badges, Simple/Advanced view, progress states and last 30 benchmark reports. Existing app modules remain included.\n• Complete package: Assets, fonts, .NET runtime and PresentMon. Extract the whole ZIP.\nValidation: 25 automated checks passed. Live capture requires Windows permissions and was not successfully verified on the development PC. No guaranteed FPS gain.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.13.0",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
