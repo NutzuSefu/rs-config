@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.13.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.13.0/RS-Optimization-v1.13.0-FULL.zip",
-  "updateSha256": "7AB63B62626714BCD297B43B8370E138CC103C54228049282ABB89E8C36EF160",
-  "changelog": "RS Optimization v1.13.0 — FiveM Hub\n• Competitive / Balanced / Quality graphics profiles with exact preview, verified backup, Apply and chained Restore.\n• Real PresentMon 60-second capture and CSV import: FPS, 1% lows, frametimes and Before/After charts.\n• CPU/GPU/RAM/disk pressure clues, approximate stutter correlation, storage checks and supported NVIDIA temperature snapshots.\n• Background-app close requests with confirmation; no forced termination or security-service changes.\n• Selected/Active badges, Simple/Advanced view, progress states and last 30 benchmark reports. Existing app modules remain included.\n• Complete package: Assets, fonts, .NET runtime and PresentMon. Extract the whole ZIP.\nValidation: 25 automated checks passed. Live capture requires Windows permissions and was not successfully verified on the development PC. No guaranteed FPS gain.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.13.0",
+  "latestVersion": "1.14.0",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.14.0/RS-Optimization-v1.14.0-FULL.zip",
+  "updateSha256": "F344288D93CF3164E6C94857644ADD4569B9C4150B5F31726A8C77CEC7E37993",
+  "changelog": "RS Optimization v1.14.0 — FiveM Expert Tools + Remember Me\n• Frame Pacing Optimizer: measured trial FPS cap advice; apply manually in GPU software.\n• Overlay Conflict Detector: running overlay/capture app scan with review guidance.\n• Shader Cache Health: cache size, file counts, access and free-space checks; no automatic deletion.\n• Server Comparison Mode: route-matched sessions grouped by server, profile and phase.\n• Crash Pattern Detector: repeated FiveM/GTA Windows crash/hang signatures from the last 7 days.\n• Network Jitter Test: 20 cancellable ICMP probes with RTT, jitter and missing-reply results.\n• Remember me: encrypted session token, online validation, logout removal; password never saved.\nFind the tools in FiveM Hub → 04 / Expert Tools. All previous modules included.\nValidation: 40 checks passed; no guaranteed FPS gain.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.14.0",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
