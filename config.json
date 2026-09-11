@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.15.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.15.0/RS-Optimization-v1.15.0-FULL.zip",
-  "updateSha256": "BDA227C51FAFAD4587CEE5FA93C13A93D146E2BB57B46A87B0F9817BC723AC01",
-  "changelog": "RS Optimization v1.15.0 — Complete Utility Categories\n• New categories: Resources, Fixes, General, Debloating, Networking, Advanced, Services, Game Profiles, App Optimizer, BIOS, Windows Optimization, Wallpapers & Themes.\n• Full channel structure with searchable cards, rounded RS styling and outline navigation icons.\n• Read-only inventories for desktop/Store apps, Windows services, adapters/DNS, motherboard/BIOS and memory.\n• General and Advanced pages expose existing reversible RS tweaks, exact changes and applied state.\n• Networking includes jitter probes and adapter inventory; Game Profiles connects to existing FiveM and GPU tools.\n• App Optimizer covers Edge, Chrome, Brave, Opera, Opera GX, Firefox, Discord and Spotify.\n• Existing v1.14.0 expert tools and Remember me remain included.\nValidation: 45 checks passed. Paragon proprietary code/assets/presets are not included.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.15.0",
+  "latestVersion": "1.15.1",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.15.1/RS-Optimization-v1.15.1-FULL.zip",
+  "updateSha256": "C9968249D3E2E5793F75ED366AE33BDC4FCD9982377494212B19A41F69840EF5",
+  "changelog": "RS Optimization v1.15.1 — Functional Utility Hotfix\n• Fixes, Debloating, Networking, Game Profiles, App Optimizer and Windows Optimization now run real RS optimizations directly instead of only opening shortcuts.\n• New APPLY RECOMMENDED button per channel, with an exact change preview and confirmation before anything runs.\n• Live applied/not-applied state for every action.\n• Clear warning before cache or temporary-file cleanup, which cannot be undone.\n• Reversible registry and power-plan changes stay connected to Restore Center.\nValidation: 54 checks passed.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.15.1",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
