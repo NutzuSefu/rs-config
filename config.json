@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.14.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.14.0/RS-Optimization-v1.14.0-FULL.zip",
-  "updateSha256": "F344288D93CF3164E6C94857644ADD4569B9C4150B5F31726A8C77CEC7E37993",
-  "changelog": "RS Optimization v1.14.0 — FiveM Expert Tools + Remember Me\n• Frame Pacing Optimizer: measured trial FPS cap advice; apply manually in GPU software.\n• Overlay Conflict Detector: running overlay/capture app scan with review guidance.\n• Shader Cache Health: cache size, file counts, access and free-space checks; no automatic deletion.\n• Server Comparison Mode: route-matched sessions grouped by server, profile and phase.\n• Crash Pattern Detector: repeated FiveM/GTA Windows crash/hang signatures from the last 7 days.\n• Network Jitter Test: 20 cancellable ICMP probes with RTT, jitter and missing-reply results.\n• Remember me: encrypted session token, online validation, logout removal; password never saved.\nFind the tools in FiveM Hub → 04 / Expert Tools. All previous modules included.\nValidation: 40 checks passed; no guaranteed FPS gain.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.14.0",
+  "latestVersion": "1.15.0",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.15.0/RS-Optimization-v1.15.0-FULL.zip",
+  "updateSha256": "BDA227C51FAFAD4587CEE5FA93C13A93D146E2BB57B46A87B0F9817BC723AC01",
+  "changelog": "RS Optimization v1.15.0 — Complete Utility Categories\n• New categories: Resources, Fixes, General, Debloating, Networking, Advanced, Services, Game Profiles, App Optimizer, BIOS, Windows Optimization, Wallpapers & Themes.\n• Full channel structure with searchable cards, rounded RS styling and outline navigation icons.\n• Read-only inventories for desktop/Store apps, Windows services, adapters/DNS, motherboard/BIOS and memory.\n• General and Advanced pages expose existing reversible RS tweaks, exact changes and applied state.\n• Networking includes jitter probes and adapter inventory; Game Profiles connects to existing FiveM and GPU tools.\n• App Optimizer covers Edge, Chrome, Brave, Opera, Opera GX, Firefox, Discord and Spotify.\n• Existing v1.14.0 expert tools and Remember me remain included.\nValidation: 45 checks passed. Paragon proprietary code/assets/presets are not included.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.15.0",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
