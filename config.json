@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.16.0",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.16.0/RS-Optimization-v1.16.0.zip",
-  "updateSha256": "34854127272BA5DF22DF6EF534CF99705BC92AD03C860763C1B0AF3C16D8F435",
-  "changelog": "RS Optimization v1.16.0 — License Tiers, App Installer & RS AI\n• Gold, Diamond and Ruby tiers with timed or Lifetime licenses.\n• Server-enforced page, tool, profile and tweak permissions.\n• New tweak categories, impact labels and Diamond/Ruby Auto Tweaks.\n• Multi-select App Installer powered by Windows Package Manager.\n• Ruby-only RS AI Assistant powered securely by Cloudflare Workers AI.\n• Discord bot and API upgraded for tier, duration, expiry and AI limits.\nValidation: 58 desktop checks and 14 bot/API tests passed.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.16.0",
+  "latestVersion": "1.16.1",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.16.1/RS-Optimization-v1.16.1.zip",
+  "updateSha256": "5B8CF579E9FB55F0846D51F2F15505FAD1CE6C5403AAA983C0DAB26AFF9CA75F",
+  "changelog": "RS Optimization v1.16.1 — UI & App Installer Hotfix\n• Fixed the App Installer progress binding crash.\n• Added a clear license-tier badge in the sidebar account card.\n• Added matching vector icons for App Installer and AI Assistant.\nValidation: release build passed and all 54 functional checks passed.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.16.1",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
