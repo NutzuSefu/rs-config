@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.16.1",
-  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.16.1/RS-Optimization-v1.16.1.zip",
-  "updateSha256": "5B8CF579E9FB55F0846D51F2F15505FAD1CE6C5403AAA983C0DAB26AFF9CA75F",
-  "changelog": "RS Optimization v1.16.1 — UI & App Installer Hotfix\n• Fixed the App Installer progress binding crash.\n• Added a clear license-tier badge in the sidebar account card.\n• Added matching vector icons for App Installer and AI Assistant.\nValidation: release build passed and all 54 functional checks passed.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.16.1",
+  "latestVersion": "1.17.0",
+  "downloadUrl": "https://github.com/NutzuSefu/rs-config/releases/download/v1.17.0/RS-Optimization-v1.17.0.zip",
+  "updateSha256": "CCE344CA7E3B88DA17251C3D3CD2782F7F32EBD1A609F3AE3B87B7033992C9F0",
+  "changelog": "RS Optimization v1.17.0 — Game Library & Automatic Performance Sessions\n• Added Game Library detection and Launch Through RS for nine supported games plus custom executables.\n• Added automatic per-game Lite, Balanced, Performance, Competitive and Extreme profiles.\n• Added Auto Boost, Auto Restore and local optimized-session history.\n• Added favorites and validated game-profile Import / Export.\n• Added periodic Health Check, hardware and Windows-update detection, reset-tweak detection and storage warnings.\n• Added shareable Before / After PNG benchmark reports.\n• Added simplified optimization cards, real DNS ranking, SSD Auto TRIM, BIOS Advisor and Latency Lab.\nValidation: release build passed and all 58 functional checks passed.\nDetailed changelog: https://github.com/NutzuSefu/rs-config/releases/tag/v1.17.0",
   "graphicsModName": "RS Graphics Mods",
   "graphicsModDescription": "Custom graphics preset for FiveM / GTA V.",
   "graphicsModVersion": "1.0.1",
